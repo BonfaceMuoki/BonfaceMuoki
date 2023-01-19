@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning advanced features of vue JS. i will really appreciate if you can trust me with your project. You won't be dissapointed
 - 💬 Ask me about ...
 - 📫 You can reach me through my email bonny.moki@gmail.com
-
+- I have been an employee of <a hred='https://dukapepe.tech/'>DUKAPEPE</a> for 5+ yrs
