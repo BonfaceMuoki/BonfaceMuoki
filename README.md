@@ -7,7 +7,6 @@ It is also worth noting that i ama an experienced operations manager who can eff
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a clients API for a real estate solution .I am using Laravel and JWT tokens for this.
-- 🌱 I’m currently learning advanced features of vue JS. i will really appreciate if you can trust me with your project. You won't be dissapointed
 - 💬 Ask me about ...
 - 📫 Drop me a mail on bonny.moki@gmail.com for any project that you might want to be worked on .
 - I have been an employee of DUKAPEPE and other several IT organisations since i graduated with a Bachelors degree in Computer science.
